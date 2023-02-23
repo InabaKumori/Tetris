@@ -7,6 +7,4 @@ Macos/Linux:
 g++ main.cpp -o main -I include -l sfml-system -l sfml-window -l sfml-graphics -l sfml-audio -l sfml-network 
 
 <br />
-<br />
-
-![Screenshot_20230222_103326](https://user-images.githubusercontent.com/51642034/220816168-843c5f89-8050-48f9-89ce-d2c9aa401dcb.png | width=100)
+<img src="https://user-images.githubusercontent.com/51642034/220816168-843c5f89-8050-48f9-89ce-d2c9aa401dcb.png" width="400" />
