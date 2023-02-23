@@ -5,3 +5,4 @@ Installation Guide: <br />
 Macos/Linux: 
 1. Manually compiling the source files with the command: <br />
 g++ main.cpp -o main -I include -l sfml-system -l sfml-window -l sfml-graphics -l sfml-audio -l sfml-network 
+![image](https://user-images.githubusercontent.com/51642034/220815808-10475f93-b0cb-4b48-97d3-e9a202ef497c.png)
