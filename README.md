@@ -8,5 +8,5 @@ g++ main.cpp -o main -I include -l sfml-system -l sfml-window -l sfml-graphics -
 <img
   src="https://user-images.githubusercontent.com/51642034/220815808-10475f93-b0cb-4b48-97d3-e9a202ef497c.png"
   alt="Example Pic"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 150px">
 ![image](https://user-images.githubusercontent.com/51642034/220815808-10475f93-b0cb-4b48-97d3-e9a202ef497c.png)
